@@ -13,7 +13,7 @@ O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento 
 | 
 Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com |
+| Samuel Cruz dos Santos | [Samuel Cruz] (https://github.com/smlcruzs)) | [Linkedin]() | smlcruzs@gmail.com |
 
 
 **Tecnologias**
